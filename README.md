@@ -1,19 +1,19 @@
 # HERO SQUAD.
 
-##Author
+## Author
 Mburiah
 
-##Description
+## Description
 This is a web app that allows user to add their preffered group of superheroes to a Hero's-Squad. It prompts the user to enter their Superhero's strength, weakness, special powers, name and age. Then add the superhero to a squad.
 can add a 
 
-##User Story 
+## User Story 
 - User can add a hero.
 - User can add a squad.
 - User can assign a hero to a squad.
 - The user can view heroes and squads created.
 
-##Pre-requisites
+## Pre-requisites
 1.You need to have java installed. You can use [sdkman](https://sdkman.io/).
 Follow the instructions on the _sdkman_ installation process. Then install java:
  ```bash
@@ -25,7 +25,7 @@ This is a build tool for the java app, you can install it through sdkman:
 ```bash
 sdk install gradle
 ```
-##Setup
+## Setup
 1. You will need Internet connection.
 
 2. You need to get into the Hero-Squad Repository.
@@ -42,7 +42,7 @@ Link:-> ```https://github.com/Mburiah/hero-squad```
  ``` bash
 gradle run
  ```
-##Technologies used.
+## Technologies used.
 - **[Java](https://java.com/en/download/) - source language.**
 
 - **[Gradle](https://gradle.org/) for dependency management and running tasks.**
@@ -53,7 +53,7 @@ gradle run
 
 - Handlebars.
 
-##Contributions and support.
+## Contributions and support.
 In case of any issues, bugs, or you would like to contribute or support contact me via: 
 - Email :- mburiahb@gmail.com.
 - Github-Username :- Mburiah
