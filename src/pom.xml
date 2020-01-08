@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     ​
-    <groupId>com.adzumi.HeroSquad</groupId>
+    <groupId>com.shedroid.HeroSquad</groupId>
     <artifactId>HeroSquad</artifactId>
     <version>1.0</version>
     ​
@@ -16,7 +16,7 @@
             <version>2.7.2</version>
         </dependency>
         <dependency>
-            <groupId>org.apache.velocity</groupId>
+            <groupId>com.sparkjava</groupId>
             <artifactId>spark-template-handlebars</artifactId>
             <version>2.5.5</version>
         </dependency>
@@ -77,7 +77,7 @@
                 <configuration>
                     <jdkVersion>1.8</jdkVersion>
                     <!-- Change this to YOUR application name! -->
-                    <appName>adzumi-hero-squad</appName>
+                    <appName>shedroid-Hero-Squad</appName>
                     <processTypes>
                         <web>java -jar target/my-app-1.0-jar-with-dependencies.jar</web>
                     </processTypes>
